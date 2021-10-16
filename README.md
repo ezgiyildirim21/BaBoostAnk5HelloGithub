@@ -34,3 +34,4 @@ Merhaba benim adım Ezgi. Ba-Boost-Ank-5 öğrencisiyim.
 - Github adı : omerfe [Ömer Faruk Eker](https://github.com/omerfe)
 - Github adı : karatasarzu [Arzu Karataş](https://github.com/karatasarzu)
 - Github adı : ukucukali [Uğurcan Küçükali](https://github.com/ukucukali)
+- Github adı : yigith [Yiğit Hacıefendioğlu](https://github.com/yigith)
