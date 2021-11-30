@@ -18,7 +18,8 @@
 Merhaba benim adım Ezgi. Ba-Boost-Ank-5 öğrencisiyim.
 
 ### Sınıf Github Listesi
-- Github adı : galipyildiz [Galip Yıldız](https://github.com/galipyildiz) [galipyildiz9606](https://www.hackerrank.com/galipyildiz9606)
+- Github adı : galipyildiz [Galip Yıldız](https://github.com/galipyildiz) 
+- Hackerrank : [galipyildiz9606](https://www.hackerrank.com/galipyildiz9606)
 - Github adı : BilgehanArici [Bilgehan Arıcı](https://github.com/BilgehanArici) [bilgehanarici97](https://www.hackerrank.com/bilgehanarici97)
 - Github adı : sinaemre [Sina Emre Bekar](https://github.com/sinaemre)
 - Github adı : MAliRagipCakir [Muhammed Ali Ragıp Çakır](https://github.com/MAliRagipCakir) [MAliRagipCakir](https://www.hackerrank.com/MAliRagipCakir)
