@@ -35,4 +35,4 @@ Merhaba benim adım Ezgi. Ba-Boost-Ank-5 öğrencisiyim.
 - Github adı : karatasarzu [Arzu Karataş](https://github.com/karatasarzu) Hackerrank - [arzukaratas95](https://www.hackerrank.com/arzukaratas95)
 - Github adı : ukucukali [Uğurcan Küçükali](https://github.com/ukucukali) Hackerrank - [ugurcan_ku07](https://www.hackerrank.com/ugurcan_ku07)
 - Github adı : burakyuz1 [Burak Akyüz](https://github.com/burakyuz1) Hackerrank - [burakyuzz](https://www.hackerrank.com/burakyuzz)
-- Github adı : yigith [Yiğit Hacıefendioğlu](https://github.com/yigith)
+- Github adı : yigith [Yiğit Hacıefendioğlu](https://github.com/yigith) Hackerrank - [@yigith1](https://www.hackerrank.com/yigith1)
